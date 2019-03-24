@@ -58,6 +58,8 @@ ice_pll.v -- PLL control logic to generate 38MHz clock
 
 A constraint file, named uart_pcf_sbt.pcf, is provided for students to generate the bipmap file (.hex) using Lattice iCEcube2 software.  This file define the pins of the FPGA.  The definition of pins can also be found on the schematics of iCEstick Dev Kit that is attached in the user manu of iCEstick Dev. Kit.
 
+.project file is included that has a correct setup for iCEcube2 project.
+
 Students are ask to implement a module, name Lab2_140L that has the following interface to the wrapper.
 
 module Lab2_140L (
