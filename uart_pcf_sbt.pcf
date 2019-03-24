@@ -1,0 +1,30 @@
+# ##############################################################################
+
+# iCEcube PCF
+
+# Version:            2012.09SP1.22498
+
+# File Generated:     Jun 4 2013 11:19:40
+
+# Family & Device:    iCE40HX1K
+
+# Package:            TQ144
+
+# ##############################################################################
+
+###IOSet List 14
+set_io clk_in 21
+set_io led[3] 96
+set_io test3 48
+set_io from_pc 9
+set_io led[0] 99
+set_io led[4] 95
+set_io i_rst 44
+set_io led[1] 98
+set_io o_serial_data 8
+set_io test1 45
+set_io led[2] 97
+set_io sd 107
+set_io test2 47
+set_io to_ir 105
+
